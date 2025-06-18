@@ -91,6 +91,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1293-three-consecutive-odds) |
@@ -112,6 +113,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
 |  |
@@ -167,6 +169,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
