@@ -7,11 +7,14 @@ This repository reflects my consistent problem-solving practice and preparation 
 
 ## 🧠 Topics Covered
 
-- Arrays & Strings  
+- Arrays
+- Strings
 - Two Pointers  
-- Stack & Queue  
+- Stack
+- Queue
 - Linked List  
-- Sorting & Binary Search  
+- Sorting
+- Binary Search  
 - Hash Table  
 - Matrix  
 - Tree & Binary Tree  
