@@ -114,6 +114,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0503-next-greater-element-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1293-three-consecutive-odds) |
@@ -276,6 +277,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
+| [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 ## Math
@@ -296,6 +298,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
+| [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
