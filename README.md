@@ -75,6 +75,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0001-two-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
@@ -221,6 +222,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
