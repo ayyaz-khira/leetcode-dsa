@@ -32,6 +32,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -44,4 +45,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
