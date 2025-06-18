@@ -168,6 +168,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
