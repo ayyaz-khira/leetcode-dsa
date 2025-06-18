@@ -61,6 +61,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0742-to-lower-case](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0742-to-lower-case) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
@@ -88,6 +89,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3321-type-of-triangle) |
@@ -126,6 +128,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
