@@ -70,6 +70,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
@@ -195,4 +196,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [1137-height-checker](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
