@@ -58,6 +58,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0125-valid-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
+| [0742-to-lower-case](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0742-to-lower-case) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [3194-find-words-containing-character](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3194-find-words-containing-character) |
 ## Array
