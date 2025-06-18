@@ -57,6 +57,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -80,6 +81,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0137-single-number-ii) |
@@ -209,6 +211,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -232,6 +235,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [1677-matrix-diagonal-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 ## Math
@@ -277,4 +281,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
