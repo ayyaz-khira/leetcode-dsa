@@ -65,6 +65,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
@@ -101,6 +102,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0141-linked-list-cycle) |
