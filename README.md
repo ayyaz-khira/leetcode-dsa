@@ -77,6 +77,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0001-two-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
@@ -284,5 +285,6 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
