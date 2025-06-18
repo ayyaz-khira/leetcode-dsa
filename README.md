@@ -79,6 +79,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
@@ -169,6 +170,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -286,5 +288,6 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
