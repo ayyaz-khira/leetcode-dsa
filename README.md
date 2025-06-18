@@ -1,2 +1,25 @@
-# leetcode-dsa
-Solved 100+ LeetCode DSA problems in Java — organized by topic, covering Arrays, Strings, Dynamic Programming, Trees, Two Pointers, Stack, Sorting, and more.
+# 💻 LeetCode DSA Solutions in Java
+
+Solved 100+ LeetCode Data Structures & Algorithms problems in Java, organized by topic.  
+This repository reflects my consistent problem-solving practice and preparation for coding interviews.
+
+---
+
+## 🧠 Topics Covered
+
+- Arrays & Strings  
+- Two Pointers  
+- Stack & Queue  
+- Linked List  
+- Sorting & Binary Search  
+- Hash Table  
+- Matrix  
+- Tree & Binary Tree  
+- DFS & Backtracking  
+- Bit Manipulation  
+- Dynamic Programming (DP)  
+- Monotonic Stack / Queue  
+- Divide and Conquer  
+- Trie
+
+---
