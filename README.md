@@ -53,6 +53,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
 ## Array
 |  |
@@ -65,6 +66,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -89,4 +91,5 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
