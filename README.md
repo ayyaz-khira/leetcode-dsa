@@ -321,4 +321,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
