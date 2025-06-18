@@ -212,6 +212,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
