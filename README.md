@@ -94,6 +94,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0260-single-number-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
@@ -163,6 +164,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
@@ -232,6 +234,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0783-search-in-a-binary-search-tree) |
