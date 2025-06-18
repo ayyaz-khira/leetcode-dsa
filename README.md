@@ -106,6 +106,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0260-single-number-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -172,6 +173,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0151-reverse-words-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0392-is-subsequence) |
@@ -267,6 +269,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
@@ -317,6 +320,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0137-single-number-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
