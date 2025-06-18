@@ -26,3 +26,19 @@ This repository reflects my consistent problem-solving practice and preparation 
 - Trie
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+<!---LeetCode Topics End-->
