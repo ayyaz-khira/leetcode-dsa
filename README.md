@@ -99,4 +99,12 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
