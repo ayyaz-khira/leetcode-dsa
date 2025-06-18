@@ -55,6 +55,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0020-valid-parentheses) |
@@ -122,6 +123,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -315,4 +317,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
