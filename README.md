@@ -87,6 +87,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3194-find-words-containing-character) |
+| [3321-type-of-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3321-type-of-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -196,6 +198,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2752-sum-multiples](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
