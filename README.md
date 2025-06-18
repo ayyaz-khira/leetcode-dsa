@@ -63,6 +63,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
@@ -92,6 +93,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 ## Sorting
@@ -113,4 +115,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
