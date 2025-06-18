@@ -74,6 +74,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0742-to-lower-case](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0742-to-lower-case) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1894-merge-strings-alternately](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -188,6 +189,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0392-is-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
