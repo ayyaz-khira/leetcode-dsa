@@ -74,6 +74,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0260-single-number-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
