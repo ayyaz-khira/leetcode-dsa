@@ -162,7 +162,16 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2752-sum-multiples](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
