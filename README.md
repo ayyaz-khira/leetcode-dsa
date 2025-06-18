@@ -67,6 +67,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0001-two-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0137-single-number-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
@@ -199,5 +200,6 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
