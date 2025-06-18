@@ -325,4 +325,5 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
