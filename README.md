@@ -65,6 +65,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0387-first-unique-character-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0742-to-lower-case) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -167,6 +168,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
