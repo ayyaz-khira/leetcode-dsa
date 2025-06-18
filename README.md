@@ -55,6 +55,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -121,6 +122,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
@@ -135,6 +137,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
