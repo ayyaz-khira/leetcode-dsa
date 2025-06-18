@@ -65,6 +65,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0742-to-lower-case](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0742-to-lower-case) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3194-find-words-containing-character) |
@@ -116,6 +117,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Monotonic Stack
 |  |
 | ------- |
