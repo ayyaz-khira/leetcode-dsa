@@ -74,6 +74,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0742-to-lower-case](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0742-to-lower-case) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1944-truncate-sentence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -127,6 +128,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1944-truncate-sentence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
