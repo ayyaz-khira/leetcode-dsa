@@ -213,6 +213,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
@@ -220,6 +221,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
