@@ -158,4 +158,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
