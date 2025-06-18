@@ -56,6 +56,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0125-valid-palindrome) |
@@ -308,4 +309,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0046-permutations](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
