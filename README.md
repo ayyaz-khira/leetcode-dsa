@@ -58,6 +58,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
@@ -65,6 +66,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
