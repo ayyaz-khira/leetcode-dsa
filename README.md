@@ -199,6 +199,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3321-type-of-triangle) |
