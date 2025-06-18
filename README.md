@@ -75,6 +75,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0782-jewels-and-stones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0782-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -328,6 +329,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0387-first-unique-character-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1137-height-checker](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Bit Manipulation
 |  |
 | ------- |
