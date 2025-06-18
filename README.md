@@ -34,6 +34,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
@@ -119,4 +120,16 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
