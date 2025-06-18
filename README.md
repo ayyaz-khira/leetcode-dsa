@@ -72,6 +72,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
+| [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 | [3194-find-words-containing-character](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -153,4 +154,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
