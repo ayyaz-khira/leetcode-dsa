@@ -1,36 +1,28 @@
 class Solution {
 
-    public void Permute(int arr[],List<List<Integer>> res,List<Integer> comb,int target,int index){
+    public void Permute(int arr[],int index,int target,List<List<Integer>> res,List<Integer> comb){
         if(target==0){
-            res.add(new ArrayList<>(comb));
+            res.add(new ArrayList(comb));
             return;
         }
 
-        if(index>=arr.length || target<0){
+        if(target<0 || index==arr.length){
             return;
         }
 
         comb.add(arr[index]);
-        Permute(arr,res,comb,target-arr[index],index);
+        Permute(arr,index,target-arr[index],res,comb);
         comb.remove(comb.size()-1);
-
-        Permute(arr,res,comb,target,index+1);
+        Permute(arr,index+1,target,res,comb);
 
     }
 
 
+    public List<List<Integer>> combinationSum(int[] arr, int target) {
+        List<List<Integer>> res=new ArrayList<>();
+        List<Integer> comb=new ArrayList<>();
+        Permute(arr,0,target,res,comb);
 
-
-
-
-
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-
-        List<List<Integer>> arr=new ArrayList<>();
-        ArrayList<Integer> comb=new ArrayList<>();
-
-        Permute(candidates,arr,comb,target,0);
-        return arr;
-        
+        return res;
     }
 }
