@@ -6,32 +6,30 @@ class Solution {
         arr[b]=temp;
     }
 
-    public void Permute(int arr[],List<List<Integer>> res,int start,int end){
+    public void Permute(int arr[],int start,int end,List<List<Integer>> res){
         if(start==end){
-            List<Integer> list=new ArrayList<>();
+            ArrayList<Integer> comb=new ArrayList<>();
             for(int x:arr){
-                list.add(x);
+                comb.add(x);
             }
-            res.add(list);
+            res.add(comb);
             return;
         }
 
         for(int i=start;i<=end;i++){
-            swap(arr,i,start);
-            Permute(arr,res,start+1,end);
-            swap(arr,i,start);
+            swap(arr,start,i);
+            Permute(arr,start+1,end,res);
+            swap(arr,start,i);
         }
-
-    
     }
-    
-    public List<List<Integer>> permute(int[] nums) {
+
+
+
+
+    public List<List<Integer>> permute(int[] arr) {
         List<List<Integer>> res=new ArrayList<>();
-    
-        Permute(nums,res,0,nums.length-1);
+        Permute(arr,0,arr.length-1,res);
 
         return res;
-
-        
     }
 }
