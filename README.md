@@ -101,6 +101,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0169-majority-element) |
@@ -150,6 +151,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0001-two-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
@@ -397,4 +399,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
