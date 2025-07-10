@@ -15,7 +15,13 @@ class Solution {
         
         }
 
-        return new ArrayList<>(map.values());
+        List<List<String>> res=new ArrayList<>();
+        for(var x:map.values()){
+            res.add(x);
+        }
+        
+        return res;
+
 
     }
 }
