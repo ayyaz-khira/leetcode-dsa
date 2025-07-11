@@ -1,12 +1,16 @@
 class Solution {
-    public int[] topKFrequent(int[] nums, int k) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for(int x:nums){
+    public int[] topKFrequent(int[] arr, int k) {
+        int n=arr.length;
+        HashMap<Integer,Integer> map=new HashMap<>(); 
+        List<Integer> bucket[]=new ArrayList[n+1];
+        int res[]=new int[k];
+        int j=0;
+
+        for(int x:arr){
             map.put(x,map.getOrDefault(x,0)+1);
         }
 
-        List<Integer>[] bucket=new ArrayList[nums.length+1];
-        for(int i=0;i<bucket.length;i++){
+        for(int i=0;i<=n;i++){
             bucket[i]=new ArrayList<>();
         }
 
@@ -15,16 +19,18 @@ class Solution {
             int freq=x.getValue();
             bucket[freq].add(key);
         }
-        int res[]=new int[k];
-        int index=0;
-        for(int i=bucket.length-1;i>=0 && index<k;i--){
+
+        for(int i=bucket.length-1;i>=0 && j<k;i--){
             for(int x:bucket[i]){
-                res[index++]=x;
-                if(index==k) break;
+                res[j]=x;
+                j++;
+                if(j==k) break;
             }
         }
 
 
         return res;
+
+
     }
 }
