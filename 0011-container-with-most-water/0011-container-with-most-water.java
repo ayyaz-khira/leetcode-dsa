@@ -8,16 +8,15 @@ class Solution {
             int h=Math.min(height[left],height[right]);
             int width=right-left;
             maxArea=Math.max(maxArea,h*width);
-            if (height[left] < height[right]) {
+
+            if(height[left]<height[right]){
                 left++;
-            } else {
+            }
+            else{
                 right--;
             }
-
         }
 
-    
         return maxArea;
-        
     }
 }
