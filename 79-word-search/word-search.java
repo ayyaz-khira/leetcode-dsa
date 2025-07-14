@@ -1,27 +1,23 @@
 class Solution {
 
     public boolean search(char mat[][],int row,int col,int rows,int cols,String word,int ind){
-        if(ind == word.length()){
-            return true;
-        }
+        if(ind==word.length()) return true;
 
-        if(row<0 || col<0 || col>=cols || row>=rows || word.charAt(ind)!=mat[row][col] || mat[row][col]=='#'){
-            return false;
-        }
+        if(row<0 || row>=rows || col<0 || col>=cols || word.charAt(ind)!=mat[row][col] || mat[row][col]=='#') return false;
 
         char temp=mat[row][col];
         mat[row][col]='#';
 
-        boolean found=search(mat,row+1,col,rows,cols,word,ind+1) ||
-                      search(mat,row-1,col,rows,cols,word,ind+1) ||
-                      search(mat,row,col+1,rows,cols,word,ind+1) ||
-                      search(mat,row,col-1,rows,cols,word,ind+1);
+        boolean found= search(mat,row-1,col,rows,cols,word,ind+1) ||
+                       search(mat,row+1,col,rows,cols,word,ind+1) ||
+                       search(mat,row,col-1,rows,cols,word,ind+1) ||
+                       search(mat,row,col+1,rows,cols,word,ind+1);
         
         mat[row][col]=temp;
 
         return found;
-
     }
+
 
     public boolean exist(char[][] board, String word) {
         int rows=board.length;
@@ -34,7 +30,6 @@ class Solution {
                 }
             }
         }
-
 
         return false;
         
