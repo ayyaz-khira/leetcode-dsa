@@ -5,11 +5,9 @@ class Solution {
 
         int l=0;
         int max=0;
-        
-        for(int r=0;r<n;r++){
 
+        for(int r=0;r<n;r++){
             char c=s.charAt(r);
-            
             if(map.containsKey(c)){
                 int prevInd=map.get(c);
                 if(prevInd>=l){
@@ -17,14 +15,10 @@ class Solution {
                 }
             }
 
-            map.put(c,r);
 
             max=Math.max(max,r-l+1);
-
+            map.put(c,r);
         }
-
         return max;
-
-        
     }
 }
