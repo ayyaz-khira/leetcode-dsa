@@ -6,7 +6,8 @@ class Solution {
         int rightMax=0;
         int water=0;
 
-        while(left<=right){
+        while(left<right){
+
             if(arr[left]<arr[right]){
                 if(arr[left]>leftMax){
                     leftMax=arr[left];
