@@ -9,17 +9,17 @@ class Solution {
 
 
         for(int x:set){
+            if(!set.contains(x-1)){
                 int curNum=x;
                 int curLongest=1;
-            if(!set.contains(x-1)){
 
                 while(set.contains(curNum+1)){
                     curNum++;
                     curLongest++;
                 }
 
-            }
                 longest=Math.max(longest,curLongest);
+            }
         }
 
         return longest;
