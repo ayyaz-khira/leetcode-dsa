@@ -1,8 +1,8 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         int n=nums.length;
-        HashMap<Integer,Integer> map=new HashMap<>();
         List<Integer>[] bucket=new ArrayList[n+1];
+        HashMap<Integer,Integer> map=new HashMap<>();
         int res[]=new int[k];
 
         for(int x:nums){
@@ -20,6 +20,7 @@ class Solution {
         }
 
         int ind=0;
+
         for(int i=bucket.length-1;i>=0 && ind<k;i--){
             for(int x:bucket[i]){
                 res[ind]=x;
@@ -27,9 +28,6 @@ class Solution {
             }
         }
 
-
         return res;
-
-        
     }
 }
