@@ -74,6 +74,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0516-longest-palindromic-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -413,6 +414,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0812-rotate-string) |
 ## Union Find
 |  |
 | ------- |
