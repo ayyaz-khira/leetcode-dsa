@@ -152,6 +152,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [2876-number-of-employees-who-met-the-target](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3321-type-of-triangle) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
