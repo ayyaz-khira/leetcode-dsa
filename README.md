@@ -102,6 +102,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0049-group-anagrams](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -219,6 +220,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0005-longest-palindromic-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0213-house-robber-ii) |
@@ -320,6 +322,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1677-matrix-diagonal-sum) |
