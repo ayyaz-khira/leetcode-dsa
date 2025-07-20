@@ -113,6 +113,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0169-majority-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
@@ -279,6 +280,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 ## Tree
 |  |
@@ -298,6 +300,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0110-balanced-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -326,6 +329,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
@@ -427,6 +431,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 ## Bucket Sort
 |  |
 | ------- |
