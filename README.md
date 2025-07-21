@@ -82,6 +82,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1894-merge-strings-alternately](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -193,6 +194,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -342,6 +344,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
