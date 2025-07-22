@@ -179,6 +179,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -215,6 +216,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0344-reverse-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0392-is-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1894-merge-strings-alternately) |
@@ -284,6 +286,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Tree
 |  |
 | ------- |
@@ -292,6 +295,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -303,6 +307,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,6 +316,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -323,6 +329,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Matrix
