@@ -101,6 +101,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
@@ -335,6 +336,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
@@ -346,6 +348,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
