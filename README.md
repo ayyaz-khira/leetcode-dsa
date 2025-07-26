@@ -114,6 +114,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0198-house-robber) |
@@ -329,6 +330,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
