@@ -8,21 +8,21 @@ class Solution {
         String ans="";
 
         for(int i=0;i<t.length();i++){
-            freq[t.charAt(i)-'A']++;
+            freq[t.charAt(i)]++;
         }
 
         for(int r=0;r<n;r++){
             char c=s.charAt(r);
 
-            freq[c-'A']--;
-            if(freq[c-'A']>=0){
+            freq[c]--;
+            if(freq[c]>=0){
                 count++;
             }
 
             while(count==t.length()){
                 char leftChar=s.charAt(l);
-                freq[leftChar-'A']++;
-                if(freq[leftChar-'A']>0){
+                freq[leftChar]++;
+                if(freq[leftChar]>0){
                     count--;
                 }
                 if(minLen>(r-l+1)){
