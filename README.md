@@ -109,6 +109,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0049-group-anagrams](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
@@ -258,6 +259,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0047-permutations-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
