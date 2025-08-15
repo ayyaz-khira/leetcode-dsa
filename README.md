@@ -225,6 +225,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0027-remove-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0141-linked-list-cycle) |
@@ -295,6 +296,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
