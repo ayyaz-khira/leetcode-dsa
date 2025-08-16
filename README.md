@@ -66,6 +66,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0072-edit-distance](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -249,6 +250,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0213-house-robber-ii) |
