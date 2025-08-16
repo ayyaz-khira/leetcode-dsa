@@ -28,5 +28,6 @@ class Solution {
         first.next=first.next.next;
 
         return dummy.next;
+        
     }
 }
