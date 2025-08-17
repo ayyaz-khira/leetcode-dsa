@@ -27,7 +27,6 @@ class Solution {
 
         ListNode newHead=ptr.next;
         ptr.next=null;
-        
 
         return newHead;
 
