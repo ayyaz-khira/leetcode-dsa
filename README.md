@@ -68,6 +68,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0344-reverse-string) |
@@ -120,6 +121,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
@@ -179,6 +181,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0049-group-anagrams](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0217-contains-duplicate) |
@@ -252,6 +255,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0072-edit-distance](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -429,6 +433,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
@@ -441,6 +446,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
