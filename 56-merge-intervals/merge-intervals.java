@@ -1,7 +1,9 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals,new SortIntervals());
         List<int[]> res=new ArrayList<>();
+        Arrays.sort(intervals,new IntervalSort());
+        
+
         for(int[] interval:intervals){
             if(res.isEmpty() || res.get(res.size()-1)[1]<interval[0]){
                 res.add(interval);
@@ -11,20 +13,17 @@ class Solution {
             }
         }
 
-        int list[][]=new int[res.size()][];
-        int i=0;
-        for(int[] interval:res){
-            list[i++]=interval;
+        int arr[][]=new int[res.size()][];
+        for(int i=0;i<res.size();i++){
+            arr[i]=res.get(i);
         }
 
-        return list;
+        return arr;
         
     }
 }
 
-
-class SortIntervals implements Comparator<int[]>{
-    @Override
+class IntervalSort implements Comparator<int[]>{
     public int compare(int arr1[],int arr2[]){
         return arr1[0]-arr2[0];
     }
