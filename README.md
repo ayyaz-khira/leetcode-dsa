@@ -316,6 +316,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
@@ -323,6 +324,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -335,6 +337,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -344,6 +347,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
