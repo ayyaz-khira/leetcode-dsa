@@ -1,14 +1,14 @@
 class Solution {
     public String minWindow(String s, String t) {
         int n=s.length();
-        int count=0;
-        int minLen=Integer.MAX_VALUE;
-        int freq[]=new int[128];
-        int l=0;
-        String ans="";
 
-        for(int i=0;i<t.length();i++){
-            freq[t.charAt(i)]++;
+        int freq[]=new int[128];
+        int minLen=Integer.MAX_VALUE;
+        int l=0;
+        int count=0;
+        String ans="";
+        for(char c:t.toCharArray()){
+            freq[c]++;
         }
 
         for(int r=0;r<n;r++){
@@ -20,20 +20,22 @@ class Solution {
             }
 
             while(count==t.length()){
-                char leftChar=s.charAt(l);
-                freq[leftChar]++;
-                if(freq[leftChar]>0){
+                freq[s.charAt(l)]++;
+                if(freq[s.charAt(l)]>0){
                     count--;
                 }
-                if(minLen>(r-l+1)){
-                    ans=s.substring(l,r+1);
+
+                if((r-l+1)<minLen){
                     minLen=r-l+1;
+                    ans=s.substring(l,r+1);
                 }
+
                 l++;
             }
-
         }
 
+
         return ans;
+        
     }
 }
