@@ -1,8 +1,7 @@
 class Solution {
     public int lengthOfLIS(int[] arr) {
-        int n=arr.length;
-        int max=1;
 
+        int n=arr.length;
         int dp[]=new int[n];
         Arrays.fill(dp,1);
 
@@ -15,10 +14,10 @@ class Solution {
         }
 
 
+        int max=1;
         for(int x:dp){
             max=Math.max(max,x);
         }
-
 
         return max;
         
