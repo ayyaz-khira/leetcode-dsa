@@ -24,6 +24,7 @@ class Solution {
 
         if(hasPathSum(root.left,targetSum) || hasPathSum(root.right,targetSum)) return true;
 
+
         return false;
         
     }
