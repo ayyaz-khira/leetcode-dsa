@@ -321,6 +321,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0100-same-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -331,6 +332,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0101-symmetric-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -348,6 +350,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0101-symmetric-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
@@ -362,6 +365,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0101-symmetric-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
