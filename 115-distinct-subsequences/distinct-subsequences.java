@@ -4,6 +4,7 @@ class Solution {
         int n=t.length();
 
         int dp[][]=new int[m+1][n+1];
+        
 
         for(int i=0;i<=m;i++){
             dp[i][0]=1;
@@ -24,8 +25,7 @@ class Solution {
             }
         }
 
-        return dp[m][n];
 
-        
+        return dp[m][n];
     }
 }
