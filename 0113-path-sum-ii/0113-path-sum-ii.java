@@ -15,27 +15,28 @@
  */
 class Solution {
 
-    public void solve(TreeNode root, int target,List<Integer> list,List<List<Integer>> res) {
+    public void solve(TreeNode root,int target,List<Integer> comb,List<List<Integer>> res){
         if(root==null) return;
 
-        list.add(root.val);
+        comb.add(root.val);
         target-=root.val;
+
         if(target==0 && root.left==null && root.right==null){
-            res.add(new ArrayList<>(list));
-            
+            res.add(new ArrayList<>(comb));
         }
 
-        solve(root.left,target,list,res);
-        solve(root.right,target,list,res);
+        solve(root.left,target,comb,res);
+        solve(root.right,target,comb,res);
 
-        list.remove(list.size()-1);
+
+        comb.remove(comb.size()-1);
     }
 
-    public List<List<Integer>> pathSum(TreeNode root, int target) {
-        List<Integer> list=new ArrayList<>();
-        List<List<Integer>> res=new ArrayList<>();
 
-        solve(root,target,list,res);
+    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
+        List<Integer> comb=new ArrayList<>();
+        List<List<Integer>> res=new ArrayList<>();
+        solve(root,targetSum,comb,res);
         return res;
     }
 }
