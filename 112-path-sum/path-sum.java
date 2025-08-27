@@ -18,28 +18,23 @@ class Solution {
     public boolean solve(TreeNode root,int target){
         if(root==null) return false;
 
-        
         target-=root.val;
-
-        if(target==0 && root.left==null && root.right==null){
+        if(root.left==null && root.right==null && target==0){
             return true;
         }
 
-        if(solve(root.left,target) ||
-        solve(root.right,target)) return true;
+        if(solve(root.left,target) || solve(root.right,target)) return true;
 
         return false;
 
 
-       
     }
 
 
-    
 
     public boolean hasPathSum(TreeNode root, int targetSum) {
+        
         return solve(root,targetSum);
-        
-        
+
     }
 }
