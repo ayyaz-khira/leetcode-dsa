@@ -15,6 +15,7 @@ class Solution {
 
         ListNode first=dummy;
         ListNode second=dummy;
+
         for(int i=0;i<n;i++){
             second=second.next;
         }
@@ -25,8 +26,9 @@ class Solution {
         }
 
         first.next=first.next.next;
+
         return dummy.next;
 
-
+        
     }
 }
