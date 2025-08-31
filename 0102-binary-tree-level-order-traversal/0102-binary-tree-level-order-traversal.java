@@ -20,7 +20,7 @@ class Solution {
 
         if(root==null) return res;
 
-        queue.offer(root);
+        queue.add(root);
 
         while(!queue.isEmpty()){
             int size=queue.size();
