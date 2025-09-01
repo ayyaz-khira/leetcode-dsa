@@ -20,8 +20,7 @@ class Solution {
 
         if(root==null) return res;
 
-        queue.add(root);
-
+        queue.offer(root);
         while(!queue.isEmpty()){
             int size=queue.size();
             List<Integer> list=new ArrayList<>();
@@ -33,7 +32,6 @@ class Solution {
             }
             res.add(list);
         }
-
 
         return res;
     }
