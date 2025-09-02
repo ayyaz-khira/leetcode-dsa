@@ -1,35 +1,38 @@
 class Solution {
 
-    public boolean find(char mat[][],int row,int col,int rows,int cols,int ind,String word){
-        if(ind==word.length()) return true;
+    public boolean solve(char mat[][],int row,int col,int rows,int cols,String word,int ind){
 
-        if(row<0 || row>=rows || col<0 || col>=cols || word.charAt(ind)=='#' || word.charAt(ind)!=mat[row][col]) return false;
+        if(ind==word.length()) return true;
+        if(row<0 || row>=rows || col<0 || col>=cols || mat[row][col]!=word.charAt(ind)) return false;
+
 
         char temp=mat[row][col];
         mat[row][col]='#';
 
-        boolean found=find(mat,row+1,col,rows,cols,ind+1,word) ||
-                      find(mat,row-1,col,rows,cols,ind+1,word) ||
-                      find(mat,row,col+1,rows,cols,ind+1,word) ||
-                      find(mat,row,col-1,rows,cols,ind+1,word);
+        boolean found= solve(mat,row+1,col,rows,cols,word,ind+1) ||
+                       solve(mat,row-1,col,rows,cols,word,ind+1) ||
+                       solve(mat,row,col+1,rows,cols,word,ind+1) ||
+                       solve(mat,row,col-1,rows,cols,word,ind+1);
+
 
         mat[row][col]=temp;
 
+        
         return found;
 
-            
+        
+        
+
+
+
     }
 
 
-
     public boolean exist(char[][] board, String word) {
-        int rows=board.length;
-        int cols=board[0].length;
-
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
-                if(word.charAt(0)==board[i][j]){
-                    if(find(board,i,j,rows,cols,0,word)) return true;
+        for(int i=0;i<board.length;i++){
+            for(int j=0;j<board[0].length;j++){
+                if(board[i][j]==word.charAt(0)){
+                    if(solve(board,i,j,board.length,board[0].length,word,0)) return true;
                 }
             }
         }
