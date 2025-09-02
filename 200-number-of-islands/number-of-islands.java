@@ -13,19 +13,21 @@ class Solution {
             }
         }
 
+
         return islands;
+
     }
 
-
     public void dfs(char grid[][],int i,int j,int rows,int cols){
-        if(i<0 || i>=rows || j<0 || j>=cols || grid[i][j]=='0') return;
+        if(i<0 || i>=rows || j<0 || j>=cols || grid[i][j]=='0'){
+            return;
+        }
 
         grid[i][j]='0';
-        
+
         dfs(grid,i+1,j,rows,cols);
         dfs(grid,i-1,j,rows,cols);
         dfs(grid,i,j+1,rows,cols);
         dfs(grid,i,j-1,rows,cols);
-
     }
 }
