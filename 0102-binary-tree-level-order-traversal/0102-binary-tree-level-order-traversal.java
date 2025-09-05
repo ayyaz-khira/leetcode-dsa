@@ -21,6 +21,7 @@ class Solution {
         if(root==null) return res;
 
         queue.offer(root);
+
         while(!queue.isEmpty()){
             int size=queue.size();
             List<Integer> list=new ArrayList<>();
@@ -29,10 +30,14 @@ class Solution {
                 if(temp.left!=null) queue.offer(temp.left);
                 if(temp.right!=null) queue.offer(temp.right);
                 list.add(temp.val);
+
             }
             res.add(list);
         }
 
+
         return res;
+
+        
     }
 }
