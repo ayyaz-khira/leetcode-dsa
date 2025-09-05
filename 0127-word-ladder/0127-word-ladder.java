@@ -22,9 +22,9 @@ class Solution {
                 for(int i=0;i<arr.length;i++){
                     char temp=arr[i];
                     for(char j='a';j<='z';j++){
+                        if (j == temp) continue;
                         arr[i]=j;
                         String newWord=String.valueOf(arr);
-                        if (j == temp) continue;
                         if(newWord.equals(endWord)) return depth+1;
                         if(set.contains(newWord)){
                             queue.offer(newWord);
