@@ -15,29 +15,30 @@
  */
 class Solution {
 
-    public void pathSumHelp(TreeNode root, int target,List<List<Integer>> res,List<Integer> list){
+    public void pathSumHelp(TreeNode root,int target,List<Integer> list,List<List<Integer>> res){
         if(root==null) return;
 
         list.add(root.val);
         target-=root.val;
+
         if(target==0 && root.left==null && root.right==null){
-            List<Integer> arr=new ArrayList<>(list);
-            res.add(arr);
+            List<Integer> comb=new ArrayList<>(list);
+            res.add(comb);
         }
 
 
-        pathSumHelp(root.left,target,res,list);
-        pathSumHelp(root.right,target,res,list);
+        pathSumHelp(root.left,target,list,res);
+        pathSumHelp(root.right,target,list,res);
+        
         list.remove(list.size()-1);
+
     }
 
 
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> res=new ArrayList<>();
         List<Integer> list=new ArrayList<>();
-
-        pathSumHelp(root,targetSum,res,list);
-
+        pathSumHelp(root,targetSum,list,res);
         return res;
     }
 }
