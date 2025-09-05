@@ -68,6 +68,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0141-linked-list-cycle) |
@@ -323,6 +325,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0102-binary-tree-level-order-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0210-course-schedule-ii) |
