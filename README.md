@@ -333,6 +333,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 ## Tree
 |  |
 | ------- |
@@ -377,6 +378,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0404-sum-of-left-leaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -538,6 +540,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -552,6 +555,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0207-course-schedule](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0210-course-schedule-ii) |
+| [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
