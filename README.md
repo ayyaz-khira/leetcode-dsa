@@ -163,6 +163,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1580-shuffle-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1677-matrix-diagonal-sum) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -544,6 +545,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1706-min-cost-to-connect-all-points) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -560,9 +562,14 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0210-course-schedule-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0210-course-schedule-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
