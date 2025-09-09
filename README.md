@@ -151,6 +151,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0525-contiguous-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
@@ -335,6 +336,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0404-sum-of-left-leaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 ## Tree
 |  |
@@ -381,6 +383,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0543-diameter-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
@@ -430,6 +433,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
@@ -544,6 +548,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1706-min-cost-to-connect-all-points) |
 ## Bucket Sort
