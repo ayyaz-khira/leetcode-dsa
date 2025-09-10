@@ -15,24 +15,18 @@
  */
 class Solution {
 
-    public boolean isSym(TreeNode left,TreeNode right){
-        if(left==null && right==null){
-            return true;
-        }
+    public boolean Symmetric(TreeNode left,TreeNode right){
+        if(left==null && right==null) return true;
 
         if(left==null || right==null) return false;
 
-        if(left.val==right.val && isSym(left.left,right.right) && isSym(left.right,right.left)) return true;
-
+        if(left.val==right.val && Symmetric(left.left,right.right) && Symmetric(left.right,right.left)) return true;
 
         return false;
     }
 
 
-
     public boolean isSymmetric(TreeNode root) {
-        return isSym(root.left,root.right);
-
-
+        return Symmetric(root.left,root.right);
     }
 }
