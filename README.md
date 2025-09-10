@@ -107,6 +107,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0048-rotate-image) |
@@ -222,6 +223,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
@@ -257,6 +259,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
