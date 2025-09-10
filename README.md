@@ -113,6 +113,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0049-group-anagrams](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
@@ -221,6 +222,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
@@ -256,6 +258,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0005-longest-palindromic-substring](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0115-distinct-subsequences) |
