@@ -1,24 +1,28 @@
 class Solution {
     public int jump(int[] nums) {
         int n=nums.length;
-        int coverage=0;
-        int lastJumpInd=0;
-        int count=0;
+        int prevMaxLimit=0;
+        int newMaxLimit=0;
+        int jump=0;
+        if(n==1) return 0;
 
-        for(int i=0;i<n-1;i++){
-            coverage=Math.max(coverage,i+nums[i]);
+        for(int i=0;i<n;i++){
+            newMaxLimit=Math.max(newMaxLimit,i+nums[i]);
 
-            if(i==lastJumpInd){
-                lastJumpInd=coverage;
-                count++;
+            if(i==prevMaxLimit){
+                prevMaxLimit=newMaxLimit;
+                jump++;
+
+            if(prevMaxLimit>=n-1){
+                return jump;
+            }
+            
             }
 
-            if(i>=coverage){
-                return count;
-            }
         }
 
-        return count;
+        return jump;
+
 
     }
 }
