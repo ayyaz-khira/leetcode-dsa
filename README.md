@@ -117,6 +117,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0055-jump-game](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -418,6 +419,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -437,6 +439,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0048-rotate-image](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
