@@ -1,28 +1,32 @@
 class Solution {
     public int jump(int[] nums) {
         int n=nums.length;
-        int prevMaxLimit=0;
-        int newMaxLimit=0;
-        int jump=0;
+        int curMax=0;
+        int max=0;
+        int jumps=0;
+
         if(n==1) return 0;
 
+
         for(int i=0;i<n;i++){
-            newMaxLimit=Math.max(newMaxLimit,i+nums[i]);
+            max=Math.max(max,nums[i]+i);
 
-            if(i==prevMaxLimit){
-                prevMaxLimit=newMaxLimit;
-                jump++;
+            if(i==curMax){
+                curMax=max;
+                jumps++;
 
-            if(prevMaxLimit>=n-1){
-                return jump;
+
+                if(curMax>=n-1){
+                    return jumps;
+                }
             }
+
             
-            }
-
         }
 
-        return jump;
 
+        return jumps;
 
+        
     }
 }
