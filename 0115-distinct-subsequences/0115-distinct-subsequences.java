@@ -13,7 +13,6 @@ class Solution {
             dp[0][j]=0;
         }
 
-
         for(int i=1;i<=rows;i++){
             for(int j=1;j<=cols;j++){
                 if(s.charAt(i-1)==t.charAt(j-1)){
