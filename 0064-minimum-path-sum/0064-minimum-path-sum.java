@@ -15,14 +15,12 @@ class Solution {
             dp[0][j]=dp[0][j-1]+grid[0][j];
         }
 
-
         for(int i=1;i<rows;i++){
             for(int j=1;j<cols;j++){
-                dp[i][j]=grid[i][j]+Math.min(dp[i-1][j],dp[i][j-1]);
+                dp[i][j]=grid[i][j]+Math.min(dp[i][j-1],dp[i-1][j]);
             }
         }
 
         return dp[rows-1][cols-1];
-        
     }
 }
