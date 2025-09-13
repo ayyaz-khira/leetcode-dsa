@@ -2,6 +2,7 @@ class Solution {
     public int numIslands(char[][] grid) {
         int rows=grid.length;
         int cols=grid[0].length;
+
         int islands=0;
 
         for(int i=0;i<rows;i++){
@@ -14,20 +15,21 @@ class Solution {
         }
 
 
+
         return islands;
+
 
     }
 
-    public void dfs(char grid[][],int i,int j,int rows,int cols){
-        if(i<0 || i>=rows || j<0 || j>=cols || grid[i][j]=='0'){
-            return;
-        }
+    public void dfs(char mat[][],int row,int col,int rows,int cols){
+        if(row<0 || row>=rows || col<0 || col>=cols || mat[row][col]=='0') return;
 
-        grid[i][j]='0';
+        mat[row][col]='0';
 
-        dfs(grid,i+1,j,rows,cols);
-        dfs(grid,i-1,j,rows,cols);
-        dfs(grid,i,j+1,rows,cols);
-        dfs(grid,i,j-1,rows,cols);
+        dfs(mat,row+1,col,rows,cols);
+        dfs(mat,row-1,col,rows,cols);
+        dfs(mat,row,col-1,rows,cols);
+        dfs(mat,row,col+1,rows,cols);
+
     }
 }
