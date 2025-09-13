@@ -15,26 +15,21 @@
  */
 class Solution {
 
-    public void sumLeft(TreeNode root,boolean isLeft,int arr[]){
+    public void solve(TreeNode root,boolean isLeft,int sum[]){
         if(root==null) return;
 
         if(isLeft && root.left==null && root.right==null){
-            arr[0]+=root.val;
+            sum[0]+=root.val;
         }
 
-        sumLeft(root.left,true,arr);
-        sumLeft(root.right,false,arr);
-
-        
+        solve(root.left,true,sum);
+        solve(root.right,false,sum);
     }
 
+
     public int sumOfLeftLeaves(TreeNode root) {
-        boolean isLeft=false;
-        int arr[]={0};
-        sumLeft(root,isLeft,arr);
-
-
-        return arr[0];
-
+        int sum[]={0};
+        solve(root,false,sum);
+        return sum[0];
     }
 }
