@@ -1,13 +1,14 @@
 class Solution {
 
-    public void dfs(int node,boolean vis[],ArrayList<ArrayList<Integer>> adj){
+    public void dfs(int node,ArrayList<ArrayList<Integer>> adj,boolean vis[]){
         vis[node]=true;
 
         for(int x:adj.get(node)){
             if(!vis[x]){
-                dfs(x,vis,adj);
+                dfs(x,adj,vis);
             }
         }
+
     }
 
 
@@ -19,26 +20,29 @@ class Solution {
         }
 
         for(int i=0;i<isConnected.length;i++){
-            for(int j=0;j<isConnected[0].length;j++){
+            for(int j=0;j<isConnected.length;j++){
                 if(i!=j && isConnected[i][j]==1){
                     adj.get(i).add(j);
-                }
+            }
             }
         }
 
+
         boolean vis[]=new boolean[adj.size()];
-    int provinces=0;
-    for(int i=0;i<adj.size();i++){
-        if(!vis[i]){
-            dfs(i,vis,adj);
-            provinces++;
+        int provinces=0;
+
+        for(int i=0;i<adj.size();i++){
+            if(!vis[i]){
+                dfs(i,adj,vis);
+                provinces++;
+
+            }
         }
+
+
+        return provinces;
+
+
+        
     }
-
-    return provinces;
-    }
-
-
-    
-
 }
