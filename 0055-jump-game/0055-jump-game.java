@@ -9,11 +9,8 @@ class Solution {
             }
         }
 
-        if(farthest==0){
-            return true;
-        }
+        if(farthest==0) return true;
 
         return false;
-        
     }
 }
