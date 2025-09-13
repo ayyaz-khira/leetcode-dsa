@@ -8,22 +8,16 @@ class Solution {
                 break;
             }
         }
-        if(j==-1){
-            return;
-        }
+
+        if(j==-1) return;
 
         for(int i=j+1;i<n;i++){
             if(arr[i]!=0){
-                swap(arr,i,j);
+                int temp=arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;
                 j++;
-
             }
         }
-    }
-
-    public void swap(int arr[],int a,int b){
-        int temp=arr[a];
-        arr[a]=arr[b];
-        arr[b]=temp;
     }
 }
