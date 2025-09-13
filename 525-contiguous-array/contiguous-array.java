@@ -1,17 +1,15 @@
 class Solution {
     public int findMaxLength(int[] arr) {
-        
-
         int n=arr.length;
-        HashMap<Integer,Integer> map=new HashMap<>();
-        int max=0;
-        int sum=0;
         for(int i=0;i<n;i++){
             if(arr[i]==0){
                 arr[i]=-1;
             }
         }
+        int max=0;
 
+        HashMap<Integer,Integer> map=new HashMap<>();
+        int sum=0;
         for(int i=0;i<n;i++){
             sum+=arr[i];
 
@@ -26,9 +24,9 @@ class Solution {
             if(!map.containsKey(sum)){
                 map.put(sum,i);
             }
+
         }
 
         return max;
-
     }
 }
