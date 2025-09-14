@@ -15,26 +15,23 @@
  */
 class Solution {
 
-    public int checkHeight(TreeNode root){
+    public int maxDepth(TreeNode root) {
         if(root==null) return 0;
 
-        int lh=checkHeight(root.left);
+        int lh=maxDepth(root.left);
         if(lh==-1) return -1;
-
-        int rh=checkHeight(root.right);
+        int rh=maxDepth(root.right);
         if(rh==-1) return -1;
 
         if(Math.abs(lh-rh)>1) return -1;
 
-        return 1+Math.max(lh,rh);
-
+        return Math.max(lh,rh)+1;
     }
 
-    public boolean isBalanced(TreeNode root) {
-        if(checkHeight(root)==-1) return false;
 
-        return true;
-        
-        
+    public boolean isBalanced(TreeNode root) {
+        if(maxDepth(root)!=-1) return true;
+
+        return false;
     }
 }
