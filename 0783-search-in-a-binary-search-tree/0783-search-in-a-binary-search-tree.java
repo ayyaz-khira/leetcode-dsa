@@ -22,9 +22,11 @@ class Solution {
         }
         else if(val < root.val){
             return searchBST(root.left,val);
-        }else{
+        }
+        else{
             return root;
         }
+        
 
 
     }
