@@ -345,6 +345,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
 ## Tree
 |  |
 | ------- |
@@ -392,6 +393,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -576,6 +578,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0210-course-schedule-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
