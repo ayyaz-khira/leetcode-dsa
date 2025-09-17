@@ -264,6 +264,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -453,6 +454,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0009-palindrome-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
@@ -503,6 +505,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Backtracking
