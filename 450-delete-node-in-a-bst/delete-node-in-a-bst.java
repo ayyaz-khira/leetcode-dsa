@@ -14,19 +14,21 @@
  * }
  */
 class Solution {
-    public int minVal(TreeNode root){
+
+    public int minValue(TreeNode root){
         while(root.left!=null){
             root=root.left;
         }
         return root.val;
     }
+
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root==null) return null;
-
-        if(key > root.val){
+        
+        if(key>root.val){
             root.right=deleteNode(root.right,key);
         }
-        else if(key < root.val){
+        else if(key<root.val){
             root.left=deleteNode(root.left,key);
         }
         else{
@@ -40,11 +42,12 @@ class Solution {
                 return root.right;
             }
             else{
-                int minValue=minVal(root.right);
-                root.val=minValue;
-                root.right=deleteNode(root.right,root.val);
+                int minVal=minValue(root.right);
+                root.val=minVal;
+                root.right=deleteNode(root.right,minVal);
             }
         }
+
 
 
         return root;
