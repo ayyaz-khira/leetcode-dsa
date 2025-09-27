@@ -1,19 +1,20 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
+        int count=0;
         int indegree[]=new int[numCourses];
+        Queue<Integer> queue=new LinkedList<>();
 
+        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
 
-
         for(int x[]:prerequisites){
-            int u=x[1];
-            int v=x[0];
+            int u=x[0];
+            int v=x[1];
             adj.get(u).add(v);
-        }
 
+        }
 
         for(int i=0;i<numCourses;i++){
             for(int x:adj.get(i)){
@@ -21,15 +22,11 @@ class Solution {
             }
         }
 
-
-        Queue<Integer> queue=new LinkedList<>();
-
         for(int i=0;i<numCourses;i++){
             if(indegree[i]==0){
                 queue.offer(i);
             }
         }
-        int count=0;
 
         while(!queue.isEmpty()){
             count++;
@@ -40,11 +37,12 @@ class Solution {
                     queue.offer(x);
                 }
             }
-
         }
 
 
         return count==numCourses;
+
+
         
     }
 }
