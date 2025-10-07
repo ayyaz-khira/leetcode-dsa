@@ -5,13 +5,13 @@ class Solution {
         for(String x:strs){
             char arr[]=x.toCharArray();
             Arrays.sort(arr);
-            String key=new String(arr);
+            String sorted=new String(arr);
 
-            if(!map.containsKey(key)){
-                map.put(key,new ArrayList<>());
+            if(!map.containsKey(sorted)){
+                map.put(sorted,new ArrayList<>());
             }
 
-            map.get(key).add(x);
+            map.get(sorted).add(x);
         }
 
 
