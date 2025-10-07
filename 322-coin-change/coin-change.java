@@ -1,7 +1,7 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int n=coins.length;
         int dp[]=new int[amount+1];
+        
         Arrays.fill(dp,amount+1);
         dp[0]=0;
 
@@ -11,6 +11,7 @@ class Solution {
             }
         }
 
-        return dp[amount]==amount+1? -1 : dp[amount];
+
+        return dp[amount]==amount+1?-1:dp[amount];
     }
 }
