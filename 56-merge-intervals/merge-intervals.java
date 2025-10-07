@@ -1,9 +1,10 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
+        List<int[]> list=new ArrayList<>();
+
         Arrays.sort(intervals,(a,b)->a[0]-b[0]);
 
-        List<int[]> list=new ArrayList<>();
-        for(int interval[]:intervals){
+        for(int[] interval:intervals){
             if(list.isEmpty() || list.get(list.size()-1)[1]<interval[0]){
                 list.add(interval);
             }
@@ -13,11 +14,11 @@ class Solution {
         }
 
         int arr[][]=new int[list.size()][];
-        int j=0;
+        int i=0;
         for(int x[]:list){
-            arr[j++]=x;
-        }
 
+            arr[i++]=x;
+        }
 
         return arr;
     }
