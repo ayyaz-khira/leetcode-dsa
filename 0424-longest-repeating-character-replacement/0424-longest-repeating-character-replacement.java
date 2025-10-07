@@ -1,9 +1,10 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int maxLen=0;
         int n=s.length();
-        int maxCount=0;
+
         int freq[]=new int[26];
+        int maxCount=0;
+        int max=0;
         int l=0;
 
         for(int r=0;r<n;r++){
@@ -16,11 +17,11 @@ class Solution {
                 freq[s.charAt(l)-'A']--;
                 l++;
             }
+            max=Math.max(max,r-l+1);
 
-            maxLen=Math.max(r-l+1,maxLen);
         }
 
-        return maxLen;
 
+        return max;
     }
 }
