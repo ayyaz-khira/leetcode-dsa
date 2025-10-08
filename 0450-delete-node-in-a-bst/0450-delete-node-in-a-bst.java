@@ -22,8 +22,6 @@ class Solution {
         return root.val;
     }
 
-
-
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root==null) return null;
 
@@ -34,16 +32,21 @@ class Solution {
             root.left=deleteNode(root.left,key);
         }
         else{
-            if(root.left==null && root.right==null) return null;
-            else if(root.left==null) return root.right;
-            else if(root.right==null) return root.left;
+            if(root.left==null && root.right==null){
+                return null;
+            }
+            else if(root.left==null){
+                return root.right;
+            }
+            else if(root.right==null){
+                return root.left;
+            }
             else{
                 int minVal=minValue(root.right);
                 root.val=minVal;
                 root.right=deleteNode(root.right,minVal);
             }
         }
-
 
 
         return root;
