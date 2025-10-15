@@ -48,7 +48,6 @@ class Solution {
             }
         }
 
-
         return root;
     }
 }
