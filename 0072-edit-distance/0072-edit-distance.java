@@ -1,9 +1,8 @@
 class Solution {
     public int minDistance(String word1, String word2) {
-
+        
         int rows=word1.length();
         int cols=word2.length();
-
         int dp[][]=new int[rows+1][cols+1];
 
         for(int i=0;i<=rows;i++){
@@ -20,12 +19,12 @@ class Solution {
                     dp[i][j]=dp[i-1][j-1];
                 }
                 else{
-                    dp[i][j]=1+Math.min(dp[i-1][j-1],Math.min(dp[i-1][j],dp[i][j-1]));
+                    dp[i][j]=1+Math.min(dp[i][j-1],Math.min(dp[i-1][j],dp[i-1][j-1]));
                 }
             }
         }
 
+
         return dp[rows][cols];
-        
     }
 }
