@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-
     public int minValue(TreeNode root){
         while(root.left!=null){
             root=root.left;
