@@ -93,6 +93,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
@@ -177,6 +178,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
