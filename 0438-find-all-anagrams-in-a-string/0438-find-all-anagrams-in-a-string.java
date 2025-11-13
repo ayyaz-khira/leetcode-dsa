@@ -5,22 +5,24 @@ class Solution {
         int n=s.length();
 
         int freq[]=new int[26];
+        int slid[]=new int[26];
         for(char c:p.toCharArray()){
             freq[c-'a']++;
         }
-        int slidFreq[]=new int[26];
+
         int l=0;
+        for(int r=0;r<n;r++){
+            char c=s.charAt(r);
+            
+            slid[c-'a']++;
 
-        for(int i=0;i<n;i++){
-            char c=s.charAt(i);
-            slidFreq[c-'a']++;
-
-            if((i-l+1)>k){
-                slidFreq[s.charAt(l)-'a']--;
+            if(r-l+1>k){
+                slid[s.charAt(l)-'a']--;
                 l++;
             }
-            if(Arrays.equals(freq,slidFreq)){
-                list.add(i-k+1);
+
+            if(Arrays.equals(freq,slid)){
+                list.add(r-k+1);
             }
 
         }
