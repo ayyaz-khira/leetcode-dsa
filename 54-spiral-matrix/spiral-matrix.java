@@ -1,14 +1,12 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        int rows=matrix.length;
-        int cols=matrix[0].length;
         List<Integer> res=new ArrayList<>();
-
+        int m=matrix.length;
+        int n=matrix[0].length;
         int srow=0;
-        int erow=rows-1;
         int scol=0;
-        int ecol=cols-1;
-
+        int ecol=n-1;
+        int erow=m-1;
 
         while(srow<=erow && scol<=ecol){
 
@@ -17,27 +15,25 @@ class Solution {
                 res.add(matrix[srow][j]);
             }
 
-
             //right
             for(int i=srow+1;i<=erow;i++){
                 res.add(matrix[i][ecol]);
             }
 
+            //bottom
             if(srow==erow){
                 break;
             }else{
-            //bottom
             for(int j=ecol-1;j>=scol;j--){
                 res.add(matrix[erow][j]);
             }
             }
 
-
+            //left
             if(scol==ecol){
                 break;
-            }else{
-
-            //left
+            }
+            else{
             for(int i=erow-1;i>=srow+1;i--){
                 res.add(matrix[i][scol]);
             }
@@ -51,5 +47,7 @@ class Solution {
 
 
         return res;
+        
+        
     }
 }
