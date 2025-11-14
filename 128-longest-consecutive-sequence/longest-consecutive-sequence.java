@@ -4,24 +4,23 @@ class Solution {
         for(int x:nums){
             set.add(x);
         }
-
-        int longest=0;
+        
+        int max=0;
 
         for(int x:set){
+            int num=x;
+            int curlong=1;
 
-            int curLongest=1;
-            int curNum=x;
             if(!set.contains(x-1)){
-
-            while(set.contains(curNum+1)){
-                curLongest++;
-                curNum++;
+                while(set.contains(num+1)){
+                    curlong++;
+                    num++;
+                }
             }
 
-            }
-            longest=Math.max(longest,curLongest);
+            max=Math.max(max,curlong);
         }
 
-        return longest;
+        return max;
     }
 }
