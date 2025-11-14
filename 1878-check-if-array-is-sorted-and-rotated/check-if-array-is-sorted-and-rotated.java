@@ -1,18 +1,13 @@
 class Solution {
     public boolean check(int[] arr) {
-        int n=arr.length;
         int count=0;
-
+        int n=arr.length;
         for(int i=0;i<n-1;i++){
-            if(arr[i]>arr[i+1]){
-                count++;
-            }
+            if(arr[i]>arr[i+1]) count++;
         }
 
         if(arr[0]<arr[n-1]) count++;
 
-        if(count<=1) return true;
-
-        return false;
+        return count<=1;
     }
 }
