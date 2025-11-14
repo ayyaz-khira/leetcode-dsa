@@ -4,22 +4,24 @@ class Solution {
         HashMap<Character,Integer> map=new HashMap<>();
         int l=0;
         int max=0;
+        for(int i=0;i<n;i++){
 
-        for(int r=0;r<n;r++){
-            char c=s.charAt(r);
-
+            char c=s.charAt(i);
+            
             if(map.containsKey(c)){
                 int prevInd=map.get(c);
                 if(prevInd>=l){
                     l=prevInd+1;
                 }
             }
-            map.put(c,r);
-            max=Math.max(r-l+1,max);
+
+            max=Math.max(max,i-l+1);
+
+            map.put(c,i);
+            
         }
 
 
         return max;
-        
     }
 }
