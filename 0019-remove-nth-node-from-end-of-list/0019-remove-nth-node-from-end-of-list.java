@@ -25,10 +25,12 @@ class Solution {
             second=second.next;
         }
 
+
         first.next=first.next.next;
+
 
         return dummy.next;
 
-        
+
     }
 }
