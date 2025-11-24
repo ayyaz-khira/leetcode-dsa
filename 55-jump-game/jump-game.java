@@ -4,13 +4,13 @@ class Solution {
         int farthest=n-1;
 
         for(int i=n-2;i>=0;i--){
-            if(nums[i]>=farthest-i){
+            if(farthest-i<=nums[i]){
                 farthest=i;
             }
         }
 
         if(farthest==0) return true;
-
+        
         return false;
     }
 }
