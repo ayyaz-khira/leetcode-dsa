@@ -164,6 +164,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1137-height-checker) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1580-shuffle-the-array) |
@@ -214,6 +215,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0940-fruit-into-baskets](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Monotonic Stack
@@ -315,6 +317,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0724-find-pivot-index](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
 ## Linked List
 |  |
@@ -466,6 +469,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -544,6 +548,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0966-binary-subarrays-with-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Database
 |  |
