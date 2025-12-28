@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-
     public int minValue(TreeNode root){
         while(root.left!=null){
             root=root.left;
@@ -47,7 +46,6 @@ class Solution {
                 root.right=deleteNode(root.right,minVal);
             }
         }
-
 
         return root;
     }
