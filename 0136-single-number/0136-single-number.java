@@ -1,11 +1,13 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int xor=0;
+        int ans=0;
+
         for(int x:nums){
-            xor=xor^x;
+            ans^=x;
         }
 
-        return xor;
+        return ans;
+        
         
     }
 }
