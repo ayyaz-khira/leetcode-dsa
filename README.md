@@ -123,6 +123,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0079-word-search](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0136-single-number) |
@@ -278,6 +279,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0072-edit-distance](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0198-house-robber) |
