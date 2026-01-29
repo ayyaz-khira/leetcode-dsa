@@ -1,24 +1,25 @@
 class Solution {
     public int jump(int[] nums) {
         int n=nums.length;
-        if(n==0 || n==1) return 0;
-        int maxReach=0;
-        int lastWindow=0;
-        int jumps=0;
+        if(n==1) return 0;
+        int range=0;
+        int lastInd=0;
+        int count=0;
 
         for(int i=0;i<n;i++){
-            maxReach=Math.max(maxReach,i+nums[i]);
+            range=Math.max(range,nums[i]+i);
+            if(i==lastInd){
+                lastInd=range;
+                count++;
 
-            if(i==lastWindow){
-                lastWindow=maxReach;
-                jumps++;
-
-                if(lastWindow>=n-1){
-                    return jumps;
+                if(range>=n-1){
+                    return count;
                 }
+
             }
         }
 
-        return jumps;
+
+        return count;
     }
 }
