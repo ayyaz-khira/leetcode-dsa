@@ -20,13 +20,11 @@ class Solution {
 
 
     public void nextPermutation(int[] arr) {
-        boolean present=false;
         int n=arr.length;
         int ind=-1;
 
         for(int i=n-2;i>=0;i--){
             if(arr[i]<arr[i+1]){
-                present=true;
                 ind=i;
                 break;
 
@@ -34,7 +32,7 @@ class Solution {
         }
 
 
-        if(!present){
+        if(ind==-1){
             reverse(arr,0,n-1);
             return;
         }
