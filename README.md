@@ -84,6 +84,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0782-jewels-and-stones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1894-merge-strings-alternately) |
@@ -223,6 +224,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0966-binary-subarrays-with-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Monotonic Stack
@@ -566,6 +568,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0992-subarrays-with-k-different-integers](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Database
 |  |
