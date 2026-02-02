@@ -9,7 +9,7 @@ class Solution {
             char c=s.charAt(r);
             map.put(c,map.getOrDefault(c,0)+1);
 
-            while(map.size()>=3){
+            while(map.size()==3){
                 char leftChar=s.charAt(l);
                 map.put(leftChar,map.get(leftChar)-1);
                 if(map.get(leftChar)==0) map.remove(leftChar);
