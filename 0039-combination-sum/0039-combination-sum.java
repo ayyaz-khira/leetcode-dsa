@@ -1,15 +1,22 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        Arrays.sort(candidates);
+        int n=candidates.length;
         List<List<Integer>> res=new ArrayList<>();
-        permute(candidates,0,target,res,new ArrayList<>());
+        List<Integer> comb=new ArrayList<>();
+        recurse(candidates,0,target,res,comb);
 
         return res;
+
+
+    
+
     }
 
-    public void permute(int arr[],int ind,int target,List<List<Integer>> res,ArrayList<Integer> comb){
+
+    public void recurse(int arr[],int ind,int target,List<List<Integer>> res,List<Integer> comb){
         if(target==0){
-            ArrayList<Integer> arr1=new ArrayList<>(comb);
-            res.add(arr1);
+            res.add(new ArrayList<>(comb));
             return;
         }
 
@@ -18,11 +25,9 @@ class Solution {
         }
 
         comb.add(arr[ind]);
-        permute(arr,ind,target-arr[ind],res,comb);
+        recurse(arr,ind,target-arr[ind],res,comb);
         comb.remove(comb.size()-1);
 
-        permute(arr,ind+1,target,res,comb);
+        recurse(arr,ind+1,target,res,comb);
     }
-
-
 }
