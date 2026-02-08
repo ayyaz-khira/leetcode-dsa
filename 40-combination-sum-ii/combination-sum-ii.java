@@ -15,10 +15,6 @@ class Solution {
             return;
         }
 
-        if(target<0 || ind==arr.length){
-            return;
-        }
-
         for(int i=ind;i<arr.length;i++){
         
         if(i>ind && arr[i]==arr[i-1]) continue;
