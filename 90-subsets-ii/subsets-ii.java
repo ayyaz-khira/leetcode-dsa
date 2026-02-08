@@ -1,25 +1,30 @@
 class Solution {
 
-    public void recurse(int arr[],int ind,List<Integer> comb,HashSet<List<Integer>> res){
-        if(ind==arr.length){
-            res.add(new ArrayList<>(comb));
-            return;
-        }
+    public void recurse(int arr[],int ind,List<Integer> comb,List<List<Integer>> res){
+    
+        res.add(new ArrayList<>(comb));
 
-        comb.add(arr[ind]);
-        recurse(arr,ind+1,comb,res);
+        for(int i=ind;i<arr.length;i++){
+        
+        if(i>ind && arr[i]==arr[i-1]) continue;
+        comb.add(arr[i]);
+        recurse(arr,i+1,comb,res);
         comb.remove(comb.size()-1);
 
-        recurse(arr,ind+1,comb,res);
+
+        
+
+        }
     }
 
 
     public List<List<Integer>> subsetsWithDup(int[] arr) {
-        HashSet<List<Integer>> set=new HashSet<>();
+        ArrayList<List<Integer>> res=new ArrayList<>();
+        ArrayList<Integer> comb=new ArrayList<>();
         Arrays.sort(arr);
-        recurse(arr,0,new ArrayList<>(),set);
+        recurse(arr,0,new ArrayList<>(),res);
 
 
-        return new ArrayList<>(set);
+        return res;
     }
 }
