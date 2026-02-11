@@ -42,6 +42,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -170,6 +171,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0643-maximum-average-subarray-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -510,6 +512,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
