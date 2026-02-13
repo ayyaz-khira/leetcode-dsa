@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<n;i++){
             int max=arr[i];
             int min=arr[i];
-            for(int j=i+1;j<n;j++){
+            for(int j=i;j<n;j++){
                 max=Math.max(max,arr[j]);
                 min=Math.min(min,arr[j]);
                 sum+=(long)(max-min);
