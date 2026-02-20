@@ -173,6 +173,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -255,6 +256,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0055-jump-game](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
