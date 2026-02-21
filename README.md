@@ -162,6 +162,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
@@ -256,6 +257,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0045-jump-game-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
@@ -315,6 +317,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
@@ -339,6 +342,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
