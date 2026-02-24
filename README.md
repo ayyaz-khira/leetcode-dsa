@@ -42,6 +42,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -84,6 +85,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0812-rotate-string) |
@@ -261,6 +263,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
@@ -322,6 +325,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0435-non-overlapping-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1263-number-of-dice-rolls-with-target-sum) |
