@@ -44,6 +44,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0503-next-greater-element-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2104-sum-of-subarray-ranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -89,6 +90,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0742-to-lower-case](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0812-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -265,6 +267,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0455-assign-cookies](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
