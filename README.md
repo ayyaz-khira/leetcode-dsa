@@ -185,6 +185,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0940-fruit-into-baskets](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1137-height-checker) |
@@ -408,6 +409,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -508,6 +510,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0200-number-of-islands](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 ## Math
