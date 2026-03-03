@@ -187,6 +187,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0992-subarrays-with-k-different-integers](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1137-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -410,6 +411,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 ## Tree
 |  |
 | ------- |
@@ -458,6 +460,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -511,6 +514,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 | [1677-matrix-diagonal-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 ## Math
@@ -681,4 +685,5 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
