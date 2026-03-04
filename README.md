@@ -566,6 +566,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0090-subsets-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
@@ -576,6 +577,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0053-maximum-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Memoization
