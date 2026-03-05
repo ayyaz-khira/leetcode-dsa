@@ -409,6 +409,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
@@ -459,6 +460,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
@@ -689,5 +691,10 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
