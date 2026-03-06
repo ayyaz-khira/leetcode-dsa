@@ -696,5 +696,6 @@ This repository reflects my consistent problem-solving practice and preparation 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
