@@ -414,6 +414,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
 |  |
 | ------- |
@@ -464,6 +465,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -693,9 +695,11 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
