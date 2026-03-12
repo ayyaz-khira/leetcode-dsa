@@ -141,6 +141,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0090-subsets-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0135-candy) |
@@ -320,6 +321,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0115-distinct-subsequences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
