@@ -418,6 +418,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
@@ -470,6 +471,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0547-number-of-provinces](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
@@ -651,6 +653,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0239-sliding-window-maximum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -712,10 +715,15 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0062-unique-paths) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
