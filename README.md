@@ -193,6 +193,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1019-squares-of-a-sorted-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1137-height-checker](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1137-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1293-three-consecutive-odds) |
@@ -424,6 +425,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0871-keys-and-rooms](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
 |  |
@@ -532,6 +534,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0898-transpose-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 ## Math
