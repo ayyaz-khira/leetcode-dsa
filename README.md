@@ -92,6 +92,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0812-rotate-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -347,6 +348,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1162-as-far-from-land-as-possible](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sorting
 |  |
 | ------- |
