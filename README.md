@@ -91,6 +91,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0782-jewels-and-stones](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1092-shortest-common-supersequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1092-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -345,6 +346,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0518-coin-change-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1092-shortest-common-supersequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1092-shortest-common-supersequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1250-longest-common-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1263-number-of-dice-rolls-with-target-sum) |
