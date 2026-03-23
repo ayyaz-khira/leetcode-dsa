@@ -1,23 +1,32 @@
 class Solution {
 
-    public boolean solve(char board[][],int row,int col,int rows,int cols,String word,int ind){
+    public boolean isSafe(char mat[][],int i,int j,int rows,int cols,String word,int ind){
         if(ind==word.length()) return true;
 
-        if(row<0 || row>=rows || col<0 || col>=cols || board[row][col]=='#' || board[row][col]!=word.charAt(ind)) return false;
 
-        char temp=board[row][col];
-        board[row][col]='#';
+        if(i<0 || i>=rows || j<0 || j>=cols || mat[i][j]=='#' || word.charAt(ind)!=mat[i][j]) return false;
 
-        boolean found=solve(board,row+1,col,rows,cols,word,ind+1) ||
-                      solve(board,row-1,col,rows,cols,word,ind+1) ||
-                      solve(board,row,col+1,rows,cols,word,ind+1) ||
-                      solve(board,row,col-1,rows,cols,word,ind+1);
+        char temp=mat[i][j];
 
-        
-        board[row][col]=temp;
+        mat[i][j]='#';
+
+        boolean found=isSafe(mat,i+1,j,rows,cols,word,ind+1) ||
+        isSafe(mat,i-1,j,rows,cols,word,ind+1) ||
+        isSafe(mat,i,j+1,rows,cols,word,ind+1) ||
+        isSafe(mat,i,j-1,rows,cols,word,ind+1);
+
+        mat[i][j]=temp;
 
         return found;
+
+
+
     }
+
+
+
+
+
 
     public boolean exist(char[][] board, String word) {
 
@@ -26,12 +35,15 @@ class Solution {
 
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
-                if(board[i][j]==word.charAt(0)){
-                    if(solve(board,i,j,rows,cols,word,0)) return true;
+               if(board[i][j]==word.charAt(0)){
+                if(isSafe(board,i,j,rows,cols,word,0)){
+                    return true;
                 }
+               }
             }
         }
-        
+
+
         return false;
     }
 }
