@@ -13,32 +13,45 @@
 
 class Solution {
 
-    public boolean isPalindrome(List<Integer> list){
-        int i=0;
-        int j=list.size()-1;
-        while(i<j){
-            if(!list.get(i).equals(list.get(j))){
-                return false;
-            }
-            i++;
-            j--;
-        }
 
-
-        return true;
-    }
 
     public boolean isPalindrome(ListNode head) {
-        List<Integer> list=new ArrayList<>();
-
-        ListNode temp=head;
-        while(temp!=null){
-            list.add(temp.val);
-            temp=temp.next;
+        ListNode slow=head;
+        ListNode fast=head;
+        ListNode first=head;
+    
+        
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+            
         }
+        
 
+        ListNode prev=null;
+        ListNode cur=slow;
+        ListNode next;
+        
+        while(cur!=null){
+            next=cur.next;
+            cur.next=prev;
+            prev=cur;
+            cur=next;
+        }
+        
+        
+        ListNode second=prev;
+        while(second!=null && first!=null){
+            if(first.val!=second.val){
+                return false;
+            }
+            first=first.next;
+            second=second.next;
+        }
+        
+        
+        return true;
 
-        return isPalindrome(list);
         
     }
 }
