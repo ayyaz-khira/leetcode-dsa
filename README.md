@@ -39,6 +39,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0145-binary-tree-postorder-traversal](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
@@ -303,6 +304,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0148-sort-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0344-reverse-string) |
@@ -403,6 +405,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0142-linked-list-cycle-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -411,6 +414,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [0021-merge-two-sorted-lists](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
