@@ -9,28 +9,62 @@
  * }
  */
 class Solution {
+
+    public ListNode getMiddle(ListNode head){
+        if(head==null || head.next==null){
+            return head;
+        }
+
+        ListNode slow=head;
+        ListNode fast=head.next;
+
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+
+
+        return slow;
+    }
+
+    public ListNode merge(ListNode first,ListNode second){
+        
+        ListNode dummy=new ListNode(0);
+        ListNode temp=dummy;
+
+        while(first!=null && second!=null){
+            if(first.val<second.val){
+                temp.next=first;
+                first=first.next;
+                temp=temp.next;
+            }
+            else if(first.val>=second.val){
+                temp.next=second;
+                second=second.next;
+                temp=temp.next;
+            }
+        }
+
+        if(first==null) temp.next=second;
+        else temp.next=first;
+
+        return dummy.next;
+    }
+
     public ListNode sortList(ListNode head) {
-        if(head==null) return null;
-        ListNode temp=head;
-        List<Integer> list=new ArrayList<>();
-        list.add(head.val);
-        while(temp.next!=null){
-            temp=temp.next;
-            list.add(temp.val);
-        }
+        if(head==null || head.next==null) return head;
 
-        Collections.sort(list);
+        ListNode mid=getMiddle(head);
+        ListNode left=head;
+        ListNode right=mid.next;
+        mid.next=null;
 
-        temp=head;
-        temp.val=list.get(0);
-        int i=1;
-        while(temp.next!=null){
-            temp=temp.next;
-            temp.val=list.get(i++);
-        }
+        left=sortList(left);
+        right=sortList(right);
+
+        return merge(left,right);
 
 
-        return head;
         
     }
 }
