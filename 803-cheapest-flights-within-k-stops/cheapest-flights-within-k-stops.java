@@ -1,68 +1,68 @@
-class Node{
-    int val;
-    int dist;
-
-    Node(int val, int dist){
-        this.val=val;
-        this.dist=dist;
-    }
-}
-
-
-
 class Solution {
-    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-        ArrayList<ArrayList<Node>> adj=new ArrayList<>();
-        for(int i=0;i<n;i++){
-            adj.add(new ArrayList<Node>());
+
+    class Pair{
+        int node;
+        int dist;
+
+        Pair(int node,int dist){
+            this.node=node;
+            this.dist=dist;
         }
+    }
 
-        int dist[]=new int[n];
-        Arrays.fill(dist,Integer.MAX_VALUE);
-        dist[src]=0;
-        int level=0;
 
-        Queue<Node> queue=new LinkedList<>();
-        queue.add(new Node(src,0));
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
+
+        ArrayList<ArrayList<Pair>> adj=new ArrayList<>();
+
+        for(int i=0;i<n;i++){
+            adj.add(new ArrayList<>());
+        }
 
         for(int i=0;i<flights.length;i++){
-            int poll[]=flights[i];
-            int u=poll[0];
-            int v=poll[1];
-            int price=poll[2];
-            adj.get(u).add(new Node(v,price));
+            int u=flights[i][0];
+            int v=flights[i][1];
+            int cost=flights[i][2];
+
+            adj.get(u).add(new Pair(v,cost));
+        
         }
+
+        int level=0;
+        Queue<Pair> queue=new LinkedList<>();
+
+        int res[]=new int[n];
+        Arrays.fill(res,Integer.MAX_VALUE);
+
+        queue.add(new Pair(src,0));
 
         while(!queue.isEmpty() && level<=k){
 
-            
-
             int size=queue.size();
             for(int i=0;i<size;i++){
-                Node poll=queue.poll();
-                int node=poll.val;
-                int price=poll.dist;
 
-                
-                
-                for(Node newNode:adj.get(node)){
-                    int newnode=newNode.val;
-                    int newDist=newNode.dist;
-                    if(price+newDist<dist[newnode]){
-                    queue.add(new Node(newNode.val,price+newNode.dist));
-                    dist[newnode]=price+newDist;
+            Pair pair=queue.poll();
+            int node=pair.node;
+            int dist=pair.dist;
 
-                    }
+            for(Pair poll:adj.get(node)){
+                int pollNode=poll.node;
+                int pollDist=poll.dist;
+
+                if(pollDist+dist<res[pollNode]){
+                    res[pollNode]=pollDist+dist;
+                    queue.offer(new Pair(pollNode,res[pollNode]));
                 }
-              
+            }
+
             }
             level+=1;
+
 
         }
 
 
-
-        return dist[dst]==Integer.MAX_VALUE ? -1 : dist[dst];
+        return res[dst]==Integer.MAX_VALUE ? -1 : res[dst];
 
         
     }
