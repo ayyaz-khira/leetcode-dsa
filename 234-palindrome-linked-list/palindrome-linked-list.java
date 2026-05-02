@@ -11,8 +11,8 @@
 class Solution {
 
     public ListNode reverse(ListNode head){
-        ListNode prev=null;
         ListNode cur=head;
+        ListNode prev=null;
         ListNode next;
 
         while(cur!=null){
@@ -26,28 +26,38 @@ class Solution {
         return prev;
     }
 
+
+
     public boolean isPalindrome(ListNode head) {
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast!=null && fast.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
+        ListNode temp=head;
+        ListNode first=head;
+        ListNode second=head;
+        int count=0;
+
+        while(temp!=null){
+            temp=temp.next;
+            count+=1;
         }
 
-        ListNode first=head;
-
-        ListNode second=reverse(slow);
-        slow.next=null;
-
-        while(second!=null){
-            if(first.val!=second.val) return false;
-            first=first.next;
+        for(int i=0;i<count/2;i++){
             second=second.next;
         }
 
 
+        ListNode newSecond=reverse(second);
+        second.next=null;
+
+        while(newSecond!=null){
+            if(first.val!=newSecond.val) return false;
+            first=first.next;
+            newSecond=newSecond.next;
+        }
+
+
+
         return true;
-        
+
+
         
     }
 }
