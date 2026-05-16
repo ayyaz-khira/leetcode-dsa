@@ -212,6 +212,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1944-truncate-sentence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2104-sum-of-subarray-ranges) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -664,6 +665,7 @@ This repository reflects my consistent problem-solving practice and preparation 
 | [1248-count-number-of-nice-subarrays](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Database
 |  |
