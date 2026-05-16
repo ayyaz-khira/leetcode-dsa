@@ -18,6 +18,7 @@ class Solution {
             fast=fast.next.next;
         }
 
+
         return slow;
     }
 }
