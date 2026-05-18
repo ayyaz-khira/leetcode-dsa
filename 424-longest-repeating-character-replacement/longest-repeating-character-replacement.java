@@ -13,13 +13,13 @@ class Solution {
 
             maxFreq=Math.max(maxFreq,freq[c-'A']);
 
-            while(((r-l+1)-maxFreq)>k){
-                char leftChar=s.charAt(l);
-                freq[leftChar-'A']--;
+            if((r-l+1)-maxFreq<=k){
+                max=Math.max(max,r-l+1);
+            }
+            else{
+                freq[s.charAt(l)-'A']--;
                 l++;
             }
-            
-            max=Math.max(max,r-l+1);
             
         }
 
