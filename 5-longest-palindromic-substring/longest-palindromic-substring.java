@@ -1,48 +1,49 @@
 class Solution {
 
-    public int isPalindrome(char arr[],int i,int j,int n){
-        int length=1;
+    public int expand(char arr[], int i, int j, int n){
+        int len=0;
+
         while(i>=0 && j<n && arr[i]==arr[j]){
-            length=Math.max(length,j-i+1);
+            len=j-i+1;
             i--;
             j++;
         }
 
-
-        return length;
-
+        return len;
     }
 
 
     public String longestPalindrome(String s) {
         int n=s.length();
-        char arr[]=s.toCharArray();
         int max=1;
-        int length=1;
-        int start=0;
-        int end=0;
+        
+
+        int first=0;
+        int second=0;
+        int ans=0;
+        char arr[]=s.toCharArray();
 
         for(int i=0;i<n;i++){
-            
-            length=isPalindrome(arr,i,i,n);
-            if(length>max){
-                max=length;
-                start=i-((length-1)/2);
-                end=i+((length)/2);
+
+            ans=expand(arr,i,i,n);
+            if(ans>max){
+                max=ans;
+                first=i-((max-1)/2);
+                second=i+(max/2);
             }
 
-            length=isPalindrome(arr,i,i+1,n);
-            if(length>max){
-                max=length;
-                start=i-((length-1)/2);
-                end=i+((length)/2);
+            ans=expand(arr,i,i+1,n);
+            if(ans>max){
+                max=ans;
+                first=i-((max-1)/2);
+                second=i+(max/2);
 
             }
-
-            
+        
         }
 
 
-        return s.substring(start,end+1);
+        return s.substring(first,second+1);
+
     }
 }
