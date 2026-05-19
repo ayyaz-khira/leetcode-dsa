@@ -21,8 +21,8 @@ class Solution {
                     i++;
                     j--;
 
-                    while(i>0 && i<n && arr[i-1]==arr[i]) i++; 
-                    while(j>0 && j<n && arr[j+1]==arr[j]) j--; 
+                    while(i<j && arr[i-1]==arr[i]) i++; 
+                    while(i<j && arr[j+1]==arr[j]) j--; 
 
                 }
                 else if(arr[i]+arr[j]>target){
