@@ -2,8 +2,9 @@ class Solution {
     public int longestOnes(int[] arr, int k) {
         int n=arr.length;
         int max=0;
-        int numZeroes=0;
         int l=0;
+        int numZeroes=0;
+
 
         for(int r=0;r<n;r++){
             if(arr[r]==0){
