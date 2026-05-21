@@ -10,10 +10,33 @@
  */
 class Solution {
 
-    public ListNode getMiddle(ListNode head){
-        if(head==null || head.next==null){
-            return head;
+
+    public ListNode merge(ListNode head1, ListNode head2){
+        
+        ListNode dummy=new ListNode(0);
+        ListNode temp=dummy;
+
+        while(head1!=null && head2!=null){
+            if(head1.val < head2.val){
+                temp.next=head1;
+                head1=head1.next;
+            }
+            else{
+                temp.next=head2;
+                head2=head2.next;
+            }
+            temp=temp.next;
         }
+
+        if(head1 != null) temp.next = head1;
+        if(head2 != null) temp.next = head2;
+
+
+        return dummy.next;
+    }
+
+
+    public ListNode middle(ListNode head){
 
         ListNode slow=head;
         ListNode fast=head.next;
@@ -27,40 +50,19 @@ class Solution {
         return slow;
     }
 
-    public ListNode merge(ListNode first,ListNode second){
-        
-        ListNode dummy=new ListNode(0);
-        ListNode temp=dummy;
 
-        while(first!=null && second!=null){
-            if(first.val<second.val){
-                temp.next=first;
-                first=first.next;
-                temp=temp.next;
-            }
-            else if(first.val>=second.val){
-                temp.next=second;
-                second=second.next;
-                temp=temp.next;
-            }
-        }
-
-        if(first==null) temp.next=second;
-        else temp.next=first;
-
-        return dummy.next;
-    }
 
     public ListNode sortList(ListNode head) {
+
         if(head==null || head.next==null) return head;
 
-        ListNode mid=getMiddle(head);
-        ListNode left=head;
-        ListNode right=mid.next;
+        ListNode mid=middle(head);
+
+        ListNode rightHead=mid.next;
         mid.next=null;
 
-        left=sortList(left);
-        right=sortList(right);
+        ListNode left=sortList(head);
+        ListNode right=sortList(rightHead);
 
         return merge(left,right);
 
