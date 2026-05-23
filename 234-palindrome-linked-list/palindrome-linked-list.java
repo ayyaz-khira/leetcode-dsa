@@ -44,18 +44,19 @@ class Solution {
 
 
     public boolean isPalindrome(ListNode head) {
-        ListNode first=head;
         ListNode mid=middle(head);
 
-        ListNode second=reverse(mid);
+        ListNode first=head;
+        ListNode temp=head;
+        ListNode second=mid;
+        ListNode newSecond=reverse(second);
 
-
-        while(second!=null){
-            if(first.val!=second.val){
+        while(newSecond!=null){
+            if(first.val!=newSecond.val){
                 return false;
             }
             first=first.next;
-            second=second.next;
+            newSecond=newSecond.next;
         }
 
         return true;
