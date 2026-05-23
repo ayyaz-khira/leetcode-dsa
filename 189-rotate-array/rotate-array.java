@@ -1,12 +1,12 @@
 class Solution {
 
-    public void reverse(int arr[],int i,int j){
-        while(i<j){
-            int temp=arr[i];
-            arr[i]=arr[j];
-            arr[j]=temp;
-            i++;
-            j--;
+    public void reverse(int arr[],int l,int r){
+        while(l<r){
+            int temp=arr[l];
+            arr[l]=arr[r];
+            arr[r]=temp;
+            l++;
+            r--;
         }
     }
 
