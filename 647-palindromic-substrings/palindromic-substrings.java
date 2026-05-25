@@ -1,30 +1,30 @@
 class Solution {
-    public int countSubstrings(String s) {
-        int n=s.length();
+
+    public int expand(char arr[], int l, int r){
         int count=0;
 
-        for(int i=0;i<n;i++){
-
-            count+=expand(s,i,i);
-
-            count+=expand(s,i,i+1);
+        while(l>=0 && r<arr.length && arr[l]==arr[r]){
+            count+=1;
+            l--;
+            r++;
         }
+
 
         return count;
     }
 
 
-    public int expand(String s,int left,int right){
+    public int countSubstrings(String s) {
+        int n=s.length();
+        char arr[]=s.toCharArray();
         int count=0;
+        for(int i=0;i<n;i++){
+            count+=expand(arr,i,i);
+            count+=expand(arr,i,i+1);
 
-        while(left>=0 && right<s.length() && s.charAt(left)==s.charAt(right)){
-            count++;
-            left--;
-            right++;
         }
 
 
         return count;
-        
     }
 }
