@@ -3,40 +3,64 @@ class Solution {
         Queue<int[]> queue=new LinkedList<>();
         int rows=grid.length;
         int cols=grid[0].length;
-        int totalOranges=0;
+        int fresh=0;
+        int rotten=0;
 
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
                 if(grid[i][j]==2){
-                    queue.offer(new int[]{i,j});
-                }else if(grid[i][j]==1){
-                    totalOranges+=1;
+                    queue.add(new int[]{i,j});
+                    
+                }
+                else if(grid[i][j]==1){
+                    fresh++;
                 }
             }
         }
 
+        if(fresh==0) return 0;
+
         int count=0;
-        while(!queue.isEmpty() && totalOranges>0){
+
+        while(!queue.isEmpty()){
             int size=queue.size();
 
-            for(int i=0;i<size;i++){
-            int rot[]=queue.poll();
-            grid[rot[0]][rot[1]]=2;
+            for(int k=0;k<size;k++){
+                
+                int poll[]=queue.poll();
+                int i=poll[0];
+                int j=poll[1];
 
-            if(rot[0]-1>=0 && grid[rot[0]-1][rot[1]]==1) {queue.offer(new int[]{rot[0]-1,rot[1]}); totalOranges-=1; grid[rot[0]-1][rot[1]]=2;}
-            if(rot[1]-1>=0 && grid[rot[0]][rot[1]-1]==1) {queue.offer(new int[]{rot[0],rot[1]-1}); totalOranges-=1; grid[rot[0]][rot[1]-1]=2;}
-            if(rot[0]+1<rows && grid[rot[0]+1][rot[1]]==1) {queue.offer(new int[]{rot[0]+1,rot[1]}); totalOranges-=1; grid[rot[0]+1][rot[1]]=2;}
-            if(rot[1]+1<cols && grid[rot[0]][rot[1]+1]==1) {queue.offer(new int[]{rot[0],rot[1]+1}); totalOranges-=1; grid[rot[0]][rot[1]+1]=2; }
+                if(i+1<rows && grid[i+1][j]==1){
+                    grid[i+1][j]=2;
+                    queue.add(new int[]{i+1,j});
+                    fresh--;
+                }
 
+                if(i-1>=0 && grid[i-1][j]==1){
+                    grid[i-1][j]=2;
+                    queue.add(new int[]{i-1,j});
+                    fresh--;
+
+                }
+
+                if(j+1<cols && grid[i][j+1]==1){
+                    grid[i][j+1]=2;
+                    queue.add(new int[]{i,j+1});
+                    fresh--;
+                }
+
+                if(j-1>=0 && grid[i][j-1]==1){
+                    grid[i][j-1]=2;
+                    queue.add(new int[]{i,j-1});
+                    fresh--;
+                }
             }
+
             count++;
-
         }
+        
 
-
-        return totalOranges == 0 ? count : -1;
-
-    
-
+        return fresh==0? count-1 : -1;
     }
 }
