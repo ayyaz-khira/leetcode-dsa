@@ -1,18 +1,24 @@
 class Solution {
-    public List<Long> mergeAdjacent(int[] arr) {
+    public List<Long> mergeAdjacent(int[] nums) {
         Stack<Long> stk=new Stack<>();
 
-        for(int x:arr){
-            long element=(long) x;
-            while(!stk.isEmpty() && stk.peek()==element){
-                element=element*2;
+        for(long x:nums){
+            long sum=x;
+            while(!stk.isEmpty() && sum==stk.peek()){
+                sum*=2;
                 stk.pop();
                 
+                
             }
-
-            stk.push(element);
+            stk.push(sum);
+        
         }
 
-        return new ArrayList<>(stk);
+        List<Long> list=new ArrayList<>();
+
+        for(long x:stk){
+            list.add(x);
+        }
+        return list;
     }
 }
