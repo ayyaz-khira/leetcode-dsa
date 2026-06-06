@@ -1,17 +1,21 @@
 class Solution {
     public int missingNumber(int[] nums) {
+        long sum=0;
+        long sum2=0;
         int n=nums.length;
 
-        int ans=0;
-
-        for(int i=0;i<n;i++){
-            ans=ans^i;
-            ans=ans^nums[i];
-
+        for(long x:nums){
+            sum+=x;
         }
 
-        ans=ans^n;
+        for(long i=1;i<=n;i++){
+            sum2+=i;
+        }
 
-        return ans;
+        return (int)(sum2-sum);
+        
+
+
+       
     }
 }
