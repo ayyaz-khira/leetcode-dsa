@@ -1,25 +1,30 @@
 class Solution {
     public int jump(int[] nums) {
+
+        
+
+        int prevRange=0;
+        int newRange=0;
         int n=nums.length;
-        if(n==1) return 0;
-        int range=0;
-        int lastInd=0;
-        int count=0;
+        int jumps=0;
+
+        if(n==1 || n==0) return 0;
 
         for(int i=0;i<n;i++){
-            range=Math.max(range,nums[i]+i);
-            if(i==lastInd){
-                lastInd=range;
-                count++;
+            newRange=Math.max(newRange,nums[i]+i);
 
-                if(range>=n-1){
-                    return count;
+            if(i==prevRange){
+                prevRange=newRange;
+                jumps++;
+
+                if(prevRange>=n-1){
+                    return jumps;
                 }
-
             }
         }
 
 
-        return count;
+        return -1;
+
     }
 }
