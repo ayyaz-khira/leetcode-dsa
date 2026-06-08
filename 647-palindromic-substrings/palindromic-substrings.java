@@ -1,29 +1,28 @@
 class Solution {
 
-    public int expand(char arr[], int l, int r){
+    public int palindromicSub(char arr[],int i,int j){
+        
         int count=0;
 
-        while(l>=0 && r<arr.length && arr[l]==arr[r]){
-            count+=1;
-            l--;
-            r++;
-        }
 
+        while(i>=0 && j<arr.length && arr[i]==arr[j]){
+            count++;
+            i--;
+            j++;
+        }
 
         return count;
     }
-
 
     public int countSubstrings(String s) {
         int n=s.length();
         char arr[]=s.toCharArray();
         int count=0;
         for(int i=0;i<n;i++){
-            count+=expand(arr,i,i);
-            count+=expand(arr,i,i+1);
+            count+=palindromicSub(arr,i,i);
+            count+=palindromicSub(arr,i,i+1);
 
         }
-
 
         return count;
     }
