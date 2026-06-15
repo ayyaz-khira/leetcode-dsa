@@ -1,31 +1,34 @@
 class Solution {
-    public List<String> generateParenthesis(int n) {
-        int open=0;
-        List<String> list=new ArrayList<>();
-        int close=0;
 
-        recurse(n,list,"",open,close);
-
-        return list;
-        
-    }
-
-
-    public void recurse(int n, List<String> list, String path,int open,int close){
-
+    public void recurse(int n,String path,List<String> res, int open, int close){
         if(path.length()==2*n){
-            list.add(path);
+            res.add(path);
+            return;
         }
 
+
         if(open<n){
-            recurse(n,list,path+"(",open+1,close);
+            recurse(n,path+'(',res,open+1,close);
         }
 
         if(close<open){
-            recurse(n,list,path+")",open,close+1);
+            recurse(n,path+')',res,open,close+1);
         }
 
 
+    }
+
+
+    public List<String> generateParenthesis(int n) {
         
+        List<String> res=new ArrayList<>();
+
+        recurse(n,"",res,0,0);
+
+
+        return res;
+
+        
+
     }
 }
