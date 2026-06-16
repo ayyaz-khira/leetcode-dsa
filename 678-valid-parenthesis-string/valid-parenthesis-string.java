@@ -1,11 +1,13 @@
 class Solution {
     public boolean checkValidString(String s) {
+        int n=s.length();
 
         int low=0;
         int high=0;
-        int n=s.length();
+        
 
         for(char c:s.toCharArray()){
+
             if(c=='('){
                 low++;
                 high++;
@@ -19,13 +21,11 @@ class Solution {
                 high++;
             }
 
-            if(high<0) return false;
-
             low=Math.max(low,0);
+            if(high<0) return false;
         }
 
 
         return low==0;
-        
     }
 }
