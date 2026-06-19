@@ -15,25 +15,21 @@
  */
 class Solution {
 
-    public int height(TreeNode root,int arr[]){
+    public int helper(TreeNode root, int arr[]){
         if(root==null) return 0;
 
-        int lh=height(root.left,arr);
-        int rh=height(root.right,arr);
+        int lh=helper(root.left,arr);
+        int rh=helper(root.right,arr);
 
         arr[0]=Math.max(arr[0],lh+rh);
 
 
-        return Math.max(lh,rh)+1;
+        return 1+Math.max(lh,rh);
     }
 
-    
     public int diameterOfBinaryTree(TreeNode root) {
-
         int arr[]={0};
-        height(root,arr);
-
+        int height=helper(root,arr);
         return arr[0];
-        
     }
 }
