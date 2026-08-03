@@ -756,4 +756,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 | ------- |
 | [0743-network-delay-time](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
