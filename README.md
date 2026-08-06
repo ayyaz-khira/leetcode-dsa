@@ -760,4 +760,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0056-merge-intervals) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
