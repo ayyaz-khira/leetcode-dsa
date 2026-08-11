@@ -764,4 +764,8 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
