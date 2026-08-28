@@ -768,4 +768,12 @@ This repository reflects my consistent problem-solving practice and preparation 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayyaz-khira/leetcode-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
